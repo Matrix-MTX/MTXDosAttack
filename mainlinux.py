@@ -7,6 +7,7 @@ import random
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(2000)
 os.system("clear")
+sys.stdout.write(f"\x1b]2; MTX (MATRIX) - IP ddoser by your network\x07")
 
 
 Baner = '''\033[1;34m                                                        
