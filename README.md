@@ -29,3 +29,4 @@ Windows :
 
 for help our discord
 link : https://discord.gg/F6Qexe24
+![image](https://user-images.githubusercontent.com/122565710/217623052-a4ca4bdf-3c83-4aa7-bbca-e6b65519d01e.png)
