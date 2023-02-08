@@ -10,9 +10,9 @@ how to install this
 
 Linux :
 
-.1 git clone https://github.com/Matrix-MTX/MTXDosAttack.git
-.2 cd MTXDosAttack
-.3 pip install -r requirements.txt
+.1 git clone https://github.com/Matrix-MTX/MTXDosAttack.git ;
+.2 cd MTXDosAttack;
+.3 pip install -r requirements.txt;
 .3 python3 main.py
 
 
