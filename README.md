@@ -13,7 +13,7 @@ Linux :
 .1 git clone https://github.com/Matrix-MTX/MTXDosAttack.git ;
 .2 cd MTXDosAttack;
 .3 pip install -r requirements.txt;
-.3 python3 main.py
+.3 python3 mainlinux.py
 
 
 
@@ -23,7 +23,7 @@ Windows :
 .2 Extraire .rar
 .3 open folder
 .4 open cmd and presse pip install -r requirements.txt
-.5 run
+.5 run mainwindwos.py
 
 
 
