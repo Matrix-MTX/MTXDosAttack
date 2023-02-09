@@ -8,6 +8,7 @@ this is a dos attack you can attack for any domain not cloudfare ips by ip
 
 how to install this
 
+if you attack with vps will be a ddos not dos
 Linux :
 
 .1 git clone https://github.com/Matrix-MTX/MTXDosAttack.git ;
